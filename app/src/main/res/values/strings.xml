@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">File System OOP</string>
+    <string name="text_viewTv">"File Data "</string>
+    <string name="btn_save">"Save To File"</string>
+    <string name="btn_retrive">"Read From File "</string>
+    <string name="edit_text">"put your text"</string>
+</resources>
